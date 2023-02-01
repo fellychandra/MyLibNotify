@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "459264535141",
+    "firebase_url": "https://mylib-f9dd1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mylib-f9dd1",
+    "storage_bucket": "mylib-f9dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459264535141:android:75f4c1ee4247e5082d348c",
+        "android_client_info": {
+          "package_name": "com.example.coba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459264535141-3j5mbotc2tfoobo2mfqrple9oh5c60hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRM1R9dtUYvlhQ0E_U2MjQeDTvt4LCUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459264535141-3j5mbotc2tfoobo2mfqrple9oh5c60hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459264535141:android:1101b41e70e6e4bf2d348c",
+        "android_client_info": {
+          "package_name": "com.example.firebaservrealdbk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459264535141-3j5mbotc2tfoobo2mfqrple9oh5c60hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRM1R9dtUYvlhQ0E_U2MjQeDTvt4LCUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459264535141-3j5mbotc2tfoobo2mfqrple9oh5c60hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459264535141:android:9be3a115a8b3c3d82d348c",
+        "android_client_info": {
+          "package_name": "com.example.mylib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459264535141-3j5mbotc2tfoobo2mfqrple9oh5c60hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRM1R9dtUYvlhQ0E_U2MjQeDTvt4LCUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459264535141-3j5mbotc2tfoobo2mfqrple9oh5c60hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
